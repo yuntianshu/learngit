@@ -4,4 +4,4 @@ Git is a free software.
 change user.email
 git is a distributed version control system ---This is add context
 Git has a mutable index called stage
-Git tracks changes.
+Git tracks changes of filess.
