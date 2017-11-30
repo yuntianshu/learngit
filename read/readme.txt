@@ -9,4 +9,4 @@ Git tracks changes of filess.
 
 two pigs;
 
-Creating a new branch is quick
+Creating a new branch is quick AND simple.
